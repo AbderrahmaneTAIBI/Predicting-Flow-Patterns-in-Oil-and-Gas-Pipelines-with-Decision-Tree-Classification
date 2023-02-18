@@ -17,7 +17,7 @@ After generating the synthetic data, the script visualizes the distribution of t
 
 The script also creates a correlation matrix and a pair plot to visualize the correlation between the different parameters and the target variable. The correlation matrix shows the correlation coefficients between the different pairs of parameters, while the pair plot shows the pairwise relationships between the different parameters.
 
-Decision Tree Classifier
+## Decision Tree Classifier
 Finally, the script splits the data into training and testing sets, trains a Decision Tree classifier on the training set, and evaluates the accuracy of the classifier on the testing set. The accuracy is printed to the console.
 
 Overall, this script is a simple example of how synthetic data generation and machine learning can be used to classify flow patterns based on different parameters.
